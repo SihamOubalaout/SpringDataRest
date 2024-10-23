@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e75c8ff-be48-4443-a0a0-ae061bf6ed40" name="Changes" comment="cc" />
+    <list default="true" id="0e75c8ff-be48-4443-a0a0-ae061bf6ed40" name="Changes" comment="cc">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prometheus.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/reactjs/src/Components/VoitureListe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/Components/VoitureListe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +119,9 @@
       <workItem from="1729623361808" duration="39000" />
       <workItem from="1729625913565" duration="356000" />
       <workItem from="1729626394883" duration="2880000" />
+      <workItem from="1729637072017" duration="251000" />
+      <workItem from="1729670934991" duration="5089000" />
+      <workItem from="1729676707022" duration="3026000" />
     </task>
     <servers />
   </component>

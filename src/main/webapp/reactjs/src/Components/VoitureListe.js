@@ -44,7 +44,6 @@ export default class VoitureListe extends Component {
                     type: "success" // Type de toast pour succès
                 });
 
-                setTimeout(() => this.setState({ show: false }), 3000); // Masquer le toast après 3 secondes
             })
             .catch(error => {
                 console.error("Erreur lors de la suppression de la voiture:", error);
@@ -54,7 +53,6 @@ export default class VoitureListe extends Component {
                     type: "danger" // Type de toast pour erreur
                 });
 
-                setTimeout(() => this.setState({ show: false }), 3000); // Masquer le toast après 3 secondes
             });
     }
 
@@ -62,9 +60,7 @@ export default class VoitureListe extends Component {
         return (
             <div>
                 {/* Notification de toast */}
-                <div style={{ display: this.state.show ? "block" : "none" }}>
-                    <MyToast children={{ show: this.state.show, message: this.state.message, type: this.state.type }} />
-                </div>
+
 
                 <Card className="border border-dark bg-dark text-white">
                     <Card.Header>
