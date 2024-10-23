@@ -38,6 +38,10 @@ class App extends Component {
                                 <Routes>
                                     <Route path="/" element={<Bienvenue />} />
                                     <Route path="/add" element={<Voiture />} />
+<<<<<<< HEAD
+=======
+                                    <Route path="/edit/:id" exact component={Voiture}/>
+>>>>>>> master
                                     <Route path="/list" element={<VoitureListe />} />
                                 </Routes>
                             </Col>

@@ -1,0 +1,6 @@
+com\ensias\springdatarest\web\VoitureController.class
+com\ensias\springdatarest\modele\VoitureRepo.class
+com\ensias\springdatarest\SpringDataRestApplication.class
+com\ensias\springdatarest\modele\Voiture.class
+com\ensias\springdatarest\modele\Proprietaire.class
+com\ensias\springdatarest\modele\ProprietaireRepo.class
