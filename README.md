@@ -38,7 +38,7 @@ cd SpringDataRest.git
 1. Open the project in IntelliJ IDEA.
 2. Configure environment variables for connecting to MariaDB. Ensure the database connection settings (URL, username, password) are correctly set in `application.properties'
 3. **Run the backend**:
-   - In IntelliJ IDEA, select the main class (`MainApplication.java` or equivalent).
+   - In IntelliJ IDEA, select the main class 'SprinDataRestApplication.java'.
    - Run the application from IntelliJ (or use `mvn spring-boot:run` from the terminal).
 4. Swagger will be available at:
    - `http://localhost:8080/swagger-ui.html`
@@ -103,7 +103,7 @@ The application uses Spring Boot Actuator for monitoring. Some useful Actuator e
 
 Health Check: http://localhost:8080/actuator/health
 Metrics: http://localhost:8080/actuator/metrics
-Prometheus Metrics (if Prometheus integration is enabled): http://localhost:8080/actuator/prometheus
+Prometheus Metrics : http://localhost:8080/actuator/prometheus
 8. Monitoring the Application with Prometheus and Grafana
 The application uses Prometheus and Grafana for monitoring.
 
