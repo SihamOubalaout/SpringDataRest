@@ -1,0 +1,22 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_10_23_2024_5_31_PM_[Changes]" date="1729701169034" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_23_2024_5_31_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 10/23/2024 5:31 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/ensias/springdatarest/SpringDataRestApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/ensias/springdatarest/modele/ProprietaireRepo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/ensias/springdatarest/modele/Voiture.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/ensias/springdatarest/modele/Proprietaire.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/ensias/springdatarest/modele/VoitureRepo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/ensias/springdatarest/web/VoitureController.class" />
+  </binary>
+</changelist>
